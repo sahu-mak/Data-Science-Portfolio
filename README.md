@@ -9,3 +9,5 @@ This repository contains the projects related to Data Science.
   - Logistic Regression:
       - [Advertising Agency](https://github.com/sahu-mak/Data-Science-Portfolio/tree/master/Advertising-Logistic-Regression)
       - [Titanic Survival Prediction](https://github.com/sahu-mak/Data-Science-Portfolio/tree/master/Titani-Logistic-Regression)
+  - K-Nearest Neighbors
+      - [K-Nearest Neighbors Project](https://github.com/sahu-mak/Data-Science-Portfolio/tree/master/K-Nearest-Neighbors)
