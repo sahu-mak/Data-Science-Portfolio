@@ -15,3 +15,6 @@ This repository contains the projects related to Data Science.
       
   - Decision Trees and Random Forests:
       - [Loan Data Prediction](https://github.com/sahu-mak/Data-Science-Portfolio/tree/master/Loan-Data-Random-Forest)
+
+  - Support Vector Machine:
+      - [Breast Cancer Prediction](https://github.com/sahu-mak/Data-Science-Portfolio/tree/master/Breat-Cancer-SVM)
